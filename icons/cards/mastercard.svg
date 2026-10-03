@@ -1,5 +1,5 @@
-<svg width="288" height="214" viewBox="0 0 288 214" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_dd_4303_2803)">
+<svg width="208" height="134" viewBox="40 20 208 134" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g>
 <rect x="40" y="20" width="208" height="134" rx="24" fill="white"/>
 <rect x="42.5" y="22.5" width="203" height="129" rx="21.5" stroke="url(#paint0_linear_4303_2803)" stroke-width="5"/>
 <path d="M158.941 59.4828H128.316V114.517H158.941V59.4828Z" fill="#FF5F00"/>
@@ -8,20 +8,7 @@
 <path d="M196.917 108.688V107.561H197.371V107.332H196.214V107.561H196.669V108.688H196.917ZM199.163 108.688V107.329H198.809L198.401 108.264L197.993 107.329H197.638V108.688H197.888V107.663L198.271 108.547H198.531L198.913 107.661V108.688H199.163Z" fill="#F79E1B"/>
 </g>
 <defs>
-<filter id="filter0_dd_4303_2803" x="0" y="0" width="288" height="214" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="2"/>
-<feGaussianBlur stdDeviation="10"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.717647 0 0 0 0 0.717647 0 0 0 0 0.717647 0 0 0 0.08 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4303_2803"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="20"/>
-<feGaussianBlur stdDeviation="20"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.717647 0 0 0 0 0.717647 0 0 0 0 0.717647 0 0 0 0.08 0"/>
-<feBlend mode="normal" in2="effect1_dropShadow_4303_2803" result="effect2_dropShadow_4303_2803"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_4303_2803" result="shape"/>
-</filter>
+
 <linearGradient id="paint0_linear_4303_2803" x1="40" y1="87" x2="248" y2="87" gradientUnits="userSpaceOnUse">
 <stop stop-color="#EB001B"/>
 <stop offset="1" stop-color="#F79E1B"/>
