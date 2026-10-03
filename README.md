@@ -75,10 +75,10 @@ Vector SVG payment logos used at [GEIGRO](https://geigro.com).
 
 ---
 
-## ⚖️ License & Trademarks
+## 🏷️ Trademarks
 
-This repository is distributed under the [MIT License](LICENSE).  
 All brand logos, names, and registered trademarks belong to their respective owners and are provided solely for payment checkout integration purposes.
+
 
 
 
