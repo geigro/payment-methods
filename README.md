@@ -28,6 +28,20 @@ Vector SVG payment logos used at [GEIGRO](https://geigro.com).
 
 ---
 
+## Standalone Card Logos (ohne Karten-Rahmen)
+
+| Asset | Name | Path |
+| :---: | :--- | :--- |
+| <img src="card-logos/diners-club.svg" height="40" alt="Diners Club" /> | Diners Club | `card-logos/diners-club.svg` |
+| <img src="card-logos/discover.svg" height="40" alt="Discover" /> | Discover | `card-logos/discover.svg` |
+| <img src="card-logos/jcb.svg" height="40" alt="JCB" /> | JCB | `card-logos/jcb.svg` |
+| <img src="card-logos/maestro.svg" height="40" alt="Maestro" /> | Maestro | `card-logos/maestro.svg` |
+| <img src="card-logos/mastercard.svg" height="40" alt="Mastercard" /> | Mastercard | `card-logos/mastercard.svg` |
+| <img src="card-logos/unionpay.svg" height="40" alt="UnionPay" /> | UnionPay | `card-logos/unionpay.svg` |
+| <img src="card-logos/visa.svg" height="40" alt="Visa" /> | Visa | `card-logos/visa.svg` |
+
+---
+
 ## Wallets & Express Checkout
 
 | Asset | Name | Path |
