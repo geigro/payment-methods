@@ -18,8 +18,10 @@ Vector SVG payment logos used at [GEIGRO](https://geigro.com).
 | Asset | Name | Path |
 | :---: | :--- | :--- |
 | <img src="icons/cards/american-express.svg" height="96" alt="American Express" /> | American Express | `icons/cards/american-express.svg` |
+| <img src="icons/cards/diners-club.svg" height="96" alt="Diners Club" /> | Diners Club | `icons/cards/diners-club.svg` |
 | <img src="icons/cards/discover.svg" height="96" alt="Discover" /> | Discover | `icons/cards/discover.svg` |
 | <img src="icons/cards/jcb.svg" height="96" alt="JCB" /> | JCB | `icons/cards/jcb.svg` |
+| <img src="icons/cards/maestro.svg" height="96" alt="Maestro" /> | Maestro | `icons/cards/maestro.svg` |
 | <img src="icons/cards/mastercard.svg" height="96" alt="Mastercard" /> | Mastercard | `icons/cards/mastercard.svg` |
 | <img src="icons/cards/unionpay.svg" height="96" alt="UnionPay" /> | UnionPay | `icons/cards/unionpay.svg` |
 | <img src="icons/cards/visa.svg" height="96" alt="Visa" /> | Visa | `icons/cards/visa.svg` |
